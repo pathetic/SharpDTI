@@ -1,5 +1,5 @@
 # SharpDTI (Discord Token Information Tool in C#)
-Extract useful information from a single users Discord authorization token.
+Extract useful information from a user's Discord authorization token.
 
 ![alt](https://github.com/ImDavyd/SharpDTI/blob/main/preview.png)
 
